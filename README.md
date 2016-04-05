@@ -48,4 +48,5 @@ will write the....
 ### Tony @put your username here
 will work on...
 
-### Tyler @put your username here 
+### Tyler @tylerbezuka
+I will work on the sound portion of the project using the rsound library.
