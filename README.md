@@ -24,9 +24,11 @@ How will you know if you are successful?
 We will be able to type some text into a GUI program, press a button and sound will be produced by the computer.
 
 ## Architecture Diagram
-Upload the architecture diagram you made for your slide presentation to your repository, and include it in-line here.
+![The Sound Editor](https://raw.githubusercontent.com/oplS16projects/Sound-Editor-JohnTylerTony/master/User%20Diagram.png)
 
-Create several paragraphs of narrative to explain the pieces and how they interoperate.
+The main part of the program is a GUI with a text input window. Tony will work on a syntax for the language of The Sound Editor, similar to HTML. John will work on parsing this language and storing it in some sort of data structure. Tyler will be passed the parsed sound data by John and his functions will play the sound.
+
+Tyler will have to describe what the endpoints are for the rsound library so John can provide the data in a useful format. Tony will have to describe what sort of syntax rules he wants for the language so John can accurately parse the user input given to him by Tony's GUI.
 
 ## Schedule
 
@@ -43,7 +45,9 @@ Polish off the language, polish off the application and further extend if time a
 Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
 
 ### John Kilgo @john-kilgo *Team lead
-will write the....
+John will work on the parser. The first milestone will be to have a data structure and accessors in place on the abstaction layer. He will have to communicate with Tony regarding what the syntax will be. John will then pass off some sort of interface to Tyler where he can access the parsed information to produce sounds.
+
+The second milestone will be to have an actually working program and to polish up the parser so it makes better use of function programming paradigms.
 
 ### Tony @put your username here
 will work on...
