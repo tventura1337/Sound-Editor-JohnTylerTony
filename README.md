@@ -42,8 +42,6 @@ Polish off the language, polish off the application and further extend if time a
 ## Group Responsibilities
 Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
 
-**Additional instructions for teams of three:** 
-
 ### John Kilgo @john-kilgo *Team lead
 will write the....
 
