@@ -13,14 +13,14 @@ State modification will likely be a part of this program, though this isn't nece
 ### Data set or other source materials
 Data will be provided by the user
 
-How will you convert that data into a form usable for your project? 
+How will you convert that data into a form usable for your project?
 We will parse the user input (a syntax/markdown similar to html).
 
 ### Deliverable and Demonstration
 At the end we wish to have a GUI application that will take some user input and produce a sound. We would like to save the user input to disc.
 
 ### Evaluation of Results
-How will you know if you are successful? 
+How will you know if you are successful?
 We will be able to type some text into a GUI program, press a button and sound will be produced by the computer.
 
 ## Architecture Diagram
@@ -49,8 +49,8 @@ John will work on the parser. The first milestone will be to have a data structu
 
 The second milestone will be to have an actually working program and to polish up the parser so it makes better use of function programming paradigms.
 
-### Tony @put your username here
-will work on...
+### Tony @tventura1337
+will work on creating the GUI text editor. The first milestone will be to create a working GUI so text can be input properly. The second milestone will feature a much more adaptive handler for the text (i.e. automatic ending tags). For the final deliverable the fully functional GUI will be ready. 
 
 ### Tyler @tylerbezuka
 I will work on the sound portion of the project using the rsound library.
