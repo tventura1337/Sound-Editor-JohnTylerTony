@@ -53,4 +53,6 @@ The second milestone will be to have an actually working program and to polish u
 will work on creating the GUI text editor. The first milestone will be to create a working GUI so text can be input properly. The second milestone will feature a much more adaptive handler for the text (i.e. automatic ending tags). For the final deliverable the fully functional GUI will be ready. 
 
 ### Tyler @tylerbezuka
-I will work on the sound portion of the project using the rsound library.
+Tyler will work on the sound portion of the project using the rsound library. The first milestone will be producing a certain
+sound based on the input recieved from the parser. He will communicate with John regarding how data will be recieved. The
+second milestone will be to have a fully working program where all data recieved corresponds to a specific sound. 
